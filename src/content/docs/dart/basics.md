@@ -12,7 +12,7 @@ sidebar:
 ```dart
 void main() {
     for (var i = 0; i < 3; i++) {
-    print('hello ${i + 1}');
+      print('hello ${i + 1}');
     }
 }
 ```
